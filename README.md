@@ -10,3 +10,7 @@ This project is a Proof of Concept for a secure data storage and encryption back
 - JWT for user authentication to secure API endpoints.
 - Database management with Entity Framework and MS SQL Server.
 - Clear, RESTful API architecture with comprehensive documentation using Swagger for ease of integration.
+
+Postman Testing - User authenticating and receiving a JWT token:
+![image](https://github.com/user-attachments/assets/568f000f-2538-4216-bb78-cc0fdf8d0575)
+
